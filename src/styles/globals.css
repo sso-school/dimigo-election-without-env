@@ -1,0 +1,35 @@
+@import url(//fonts.2w.vc/suit/static/font.css);* {
+  font-family: SUIT,sans-serif;
+  letter-spacing: -.02rem;
+  margin: 0;
+  padding: 0
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  color: #221821;
+  -webkit-tap-highlight-color : transparent;
+  word-break: keep-all;
+}
+
+html,
+body {
+  max-width: 100%;
+  height: 100%;
+  overflow-x: hidden;
+  background: #fbf3fa;
+}
+#__next{
+  height: 100%;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+div{
+  user-select: none;
+}
